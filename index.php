@@ -7,5 +7,10 @@
     <h1>Learning Git Hub</h1>
     <h2>Ahmed Shan (<?php echo date("Y-m-d"); ?>)</h2>
 
+
+    <footer>
+        This is the footer
+    </footer>
+
 </body>
 </html>
